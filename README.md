@@ -24,6 +24,4 @@ The goal is to identify abnormal breathing patterns from audio signals.
 - Deep Learning  
 - Audio Signal Processing  
 
----
 
-## 📁 Project Structure
