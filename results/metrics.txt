@@ -1,2 +1,16 @@
-Accuracy: --
-Loss: --
+Model Evaluation Results
+
+- Task: Lung Sound Classification
+- Objective: Classify lung sounds as normal or abnormal
+
+Metrics Used:
+- Accuracy:0.9344
+- Loss : 0.3108
+
+Current Status:
+- Model trained and evaluated during experimentation.
+- Final metrics may vary based on dataset size and preprocessing.
+
+Note:
+This file is a placeholder to document evaluation metrics
+and project result structure.
