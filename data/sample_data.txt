@@ -1,1 +1,22 @@
-Sample lung sound data placeholder
+## Data Description
+
+This project uses lung sound audio recordings to build a deep learning model
+for classifying respiratory sounds.
+
+### Type of Data
+- Audio recordings of lung sounds
+- Used to identify normal and abnormal breathing patterns
+
+### Data Usage
+- Audio signals are preprocessed and converted into numerical features
+- Extracted features are used to train and evaluate the classification model
+
+### Dataset Availability
+- The original dataset is not included in this repository
+- Reasons:
+  - Medical data privacy and ethical considerations
+  - Large dataset size
+
+### Note
+This folder contains only placeholder files to demonstrate
+the data structure used in this project.
